@@ -1,0 +1,8 @@
+{
+  "found": 173,
+  "name": "sat-api",
+  "license": "CC0-1.0",
+  "website": "https://api.developmentseed.org/satellites/",
+  "page": 1,
+  "limit": 200
+}
